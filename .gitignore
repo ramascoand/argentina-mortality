@@ -1,0 +1,8 @@
+# Large raw data: download per README
+data/defunciones-ocurridas-*.csv
+data/defuncion20*.csv
+data/snic-*.csv
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
