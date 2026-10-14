@@ -48,3 +48,11 @@ Both notebooks run top to bottom and write their figures to `figures/`.
 ## Caveats
 
 ICD-10 codes are only 3 characters, so alcohol-attributable deaths are a floor. Rates are crude, not age-standardized. The "corrected" suicide series is an informed upper-range estimate, not a case-by-case reclassification. See the methodological notes inside each notebook.
+
+## License
+
+The code is released under the [MIT License](LICENSE). The figures in `figures/` are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The source data keep the terms set by the Ministry of Health (DEIS), the Ministry of Security (SNIC) and INDEC.
+
+## Citation
+
+If you use this code or its figures, please cite the repository. GitHub's "Cite this repository" button uses `CITATION.cff`.
